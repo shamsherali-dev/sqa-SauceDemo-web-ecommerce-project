@@ -21,5 +21,7 @@
 <img width="1582" height="554" alt="image" src="https://github.com/user-attachments/assets/ce39893f-d7bb-4ea9-9566-d716e7828c15" />
 
 
-
+- **Direct URL Access Unauthenticated**
+<img width="1263" height="444" alt="image" src="https://github.com/user-attachments/assets/e3eeba40-a843-4384-b471-395b66629bf6" />
+ 
 
